@@ -68,7 +68,7 @@ cd minesweeper
 
 4. **Запуск через GitHub Pages**:
 Проект доступен онлайн через GitHub Pages:
-[Играть в Minesweeper](ссылка на веб сайт)
+[Играть в Minesweeper](https://erefef.github.io/minesweeper-web/)
 
 ## Технические требования
 - Современный браузер с поддержкой IndexedDB (например, Chrome, Firefox, Edge).
@@ -77,5 +77,5 @@ cd minesweeper
 - Сохранённые игры остаются в вашем браузере, пока вы не очистите локальные данные.
 - Для обновления проекта просто загрузите последнюю версию репозитория.
 ## Ссылки
-[GitHub Репозиторий]()
-[Играть через GitHub Pages]()
+[GitHub Репозиторий](https://github.com/Erefef/minesweeper-web)
+[Играть через GitHub Pages](https://erefef.github.io/minesweeper-web/)
